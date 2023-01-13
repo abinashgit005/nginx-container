@@ -46,5 +46,6 @@ sudo docker ps
 Now add an inbound rule in your VM (service as HTTP)
 Copy the public IP of your VM and run in a different window. \
 ![nginx](nginx.jpg)
+
 Hurrah !!!! 
 ### *You successfully launched a nginx in a docker Container.*
