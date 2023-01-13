@@ -42,6 +42,7 @@ To check the container you have
 ```bash
 sudo docker ps
 ```
+![check images and containers](docker.jpg)
 Now add an inbound rule in your VM (service as HTTP)
 Copy the public IP of your VM and run in a different window. \
 Hurrah !!!! \
