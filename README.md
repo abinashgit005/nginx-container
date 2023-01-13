@@ -45,5 +45,6 @@ sudo docker ps
 ![check images and containers](docker.jpg)
 Now add an inbound rule in your VM (service as HTTP)
 Copy the public IP of your VM and run in a different window. \
-Hurrah !!!! \
-### *You successfully launched a niinx in a docker Container.*
+![nginx](nginx.jpg)
+Hurrah !!!! 
+### *You successfully launched a nginx in a docker Container.*
